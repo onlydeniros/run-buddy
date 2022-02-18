@@ -78,6 +78,7 @@ section{
     background-position: center;
     position: relative;
 }
+
 /* Hero Style End */
 
 .hero-form{
@@ -266,7 +267,6 @@ section{
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
-    vertical-align:top;
 }
 
 .contact-info h3{
